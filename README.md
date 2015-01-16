@@ -1,2 +1,2 @@
 # Scores
-Score tracker for sports games
+Web app for tracking sport games resluts like fifa, pes.
